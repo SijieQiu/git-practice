@@ -9,7 +9,7 @@ PUBLISHER(S):Mendeley Data
 DOI:10.17632/553zngdbpk.1
 Institutions:Pontificia Universidade Catolica do Parana
 Categories:Behavioral Economics
-Licence;CC BY 4.0
+Licence:CC BY 4.0
 
 Variables (Columns):
 
