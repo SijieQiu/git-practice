@@ -11,9 +11,8 @@ Below you'll find metadata for each file.**
 - Categories:Behavioral Economics
 - Licence:CC BY 4.0
 # 2.Variables (Columns):
-|col1|col2|
-|-|-|-|
-|Header            |Description
+|Header|Description|
+|-|-|
 |play2             |control experiment
 |mk                |person who wears makeup
 |treatment         |Trustor's trust in the experimenter
