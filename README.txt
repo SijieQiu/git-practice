@@ -13,16 +13,16 @@ Below you'll find metadata for each file.**
 # 2.Variables (Columns):
 |col1|col2|
 |-|-|-|
-|Header           |Description|	
-|play2            |control experiment|
-|mk               |person who wears makeup
-|treatment        |Trustor's trust in the experimenter
-|attractiveness   |Attractiveness of female experimenters to investors
-|tranfer          |Level of the willingness of investors to transfer money to experimenters
-Trustworthiness   |The degree of trustworthiness of the experimenter
-Averagetrust      |The average degree of trustworthiness of the experimenter
-averageattract    |Average attractiveness of female experimenters to investors
-GroupAttrac       |The overall trustworthiness of the experimenter
-IncreaseAttract   |Increase in Trustedness by Experimenter Make-up
-Hypothesis        |1: Wearing makeup increases perceived attractiveness.2: Wearing makeup increases perceived trustworthines 3: Trustees with makeup receive larger transfers in the trust game than trustees without makeup. 4: Male trustors transfer more money to women with makeup than female trustors.5: The makeup effect is larger in magnitude for less attractive female trustees.
+|Header            |Description
+|play2             |control experiment
+|mk                |person who wears makeup
+|treatment         |Trustor's trust in the experimenter
+|attractiveness    |Attractiveness of female experimenters to investors
+|tranfer           |Level of the willingness of investors to transfer money to experimenters
+|Trustworthiness   |The degree of trustworthiness of the experimenter
+|Averagetrust      |The average degree of trustworthiness of the experimenter
+|averageattract    |Average attractiveness of female experimenters to investors
+|GroupAttrac       |The overall trustworthiness of the experimenter
+|IncreaseAttract   |Increase in Trustedness by Experimenter Make-up
+|Hypothesis        |1: Wearing makeup increases perceived attractiveness.2: Wearing makeup increases perceived trustworthines 3: Trustees with makeup receive larger transfers in the trust game than trustees without makeup. 4: Male trustors transfer more money to women with makeup than female trustors.5: The makeup effect is larger in magnitude for less attractive female trustees.
 
